@@ -1,0 +1,98 @@
+{
+  "RawText": "Isabel\nSchumacher\nGraphics Designer\nAbout Me Education\nLorem ipsum dolor sit amet,\n(2011 -2015)\nconsectetur adipiscing elit. Nullam\npharetra in lorem at laoreet. Donec\nWARDIERE UNIVERSITY\nhendrerit libero eget est tempor, quis\nBachelor of Design\ntempus arcu elementum.\n3.65\nContact (2014 -2019)\nWARDIERE UNIVERSITY\n\u002B123-456-7890\nBachelor of Design\n3.74\nhello@reallygreatsite.com\n123 Anywhere Street., Any\nExperience\nCity\n(2020 -2023)\nSENIOR GRAPHIC DESIGNER\nSkills\nFauget studio\nWeb Design\ncreate more than 100 graphic designs\nBranding\nfor big companies\ncomplete a lot of complicated work\nGraphic Design\nSEO\n(2017 - 2019)\nMarketing\nSENIOR GRAPHIC DESIGNER\nlarana, inc\ncreate more than 100 graphic designs\nLanguage\nfor big companies\nEnglish\ncomplete a lot of complicated work\nFrench",
+  "Emails": [
+    "hello@reallygreatsite.com"
+  ],
+  "Phones": [
+    "(2011 -2015",
+    "(2014 -2019",
+    "\u002B123-456-7890",
+    "(2020 -2023",
+    "(2017 - 2019"
+  ],
+  "Name": "Graphics Designer",
+  "Skills": [
+    "Fauget studio",
+    "Web Design",
+    "create more than 100 graphic designs",
+    "Branding",
+    "for big companies",
+    "complete a lot of complicated work",
+    "Graphic Design",
+    "SEO",
+    "Marketing",
+    "SENIOR GRAPHIC DESIGNER",
+    "larana",
+    "inc",
+    "create more than 100 graphic designs",
+    "Language",
+    "for big companies",
+    "English",
+    "complete a lot of complicated work",
+    "French"
+  ],
+  "Experience": [
+    {
+      "Title": "()",
+      "Company": "City",
+      "DateRange": "2020 -2023",
+      "Description": ""
+    },
+    {
+      "Title": "City",
+      "Company": "SENIOR GRAPHIC DESIGNER",
+      "DateRange": "2020 -2023",
+      "Description": ""
+    }
+  ],
+  "Education": [],
+  "Sections": {
+    "top": [
+      "Isabel",
+      "Schumacher",
+      "Graphics Designer",
+      "About Me Education",
+      "Lorem ipsum dolor sit amet,",
+      "(2011 -2015)",
+      "consectetur adipiscing elit. Nullam",
+      "pharetra in lorem at laoreet. Donec",
+      "WARDIERE UNIVERSITY",
+      "hendrerit libero eget est tempor, quis",
+      "Bachelor of Design",
+      "tempus arcu elementum.",
+      "3.65",
+      "Contact (2014 -2019)",
+      "WARDIERE UNIVERSITY",
+      "\u002B123-456-7890",
+      "Bachelor of Design",
+      "3.74",
+      "hello@reallygreatsite.com",
+      "123 Anywhere Street., Any"
+    ],
+    "experience": [
+      "City",
+      "(2020 -2023)",
+      "SENIOR GRAPHIC DESIGNER"
+    ],
+    "skills": [
+      "Fauget studio",
+      "Web Design",
+      "create more than 100 graphic designs",
+      "Branding",
+      "for big companies",
+      "complete a lot of complicated work",
+      "Graphic Design",
+      "SEO",
+      "(2017 - 2019)",
+      "Marketing",
+      "SENIOR GRAPHIC DESIGNER",
+      "larana, inc",
+      "create more than 100 graphic designs",
+      "Language",
+      "for big companies",
+      "English",
+      "complete a lot of complicated work",
+      "French"
+    ]
+  }
+}

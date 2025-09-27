@@ -1,0 +1,69 @@
+﻿@model IEnumerable<ATSProject.Models.CandidateApplication>
+
+@{
+    ViewData["Title"] = "Applicants";
+}
+
+<div class="container mt-5">
+    <h2 class="mb-4">👥 Applicants for @ViewBag.JobTitle</h2>
+
+    @if (Model == null || !Model.Any())
+    {
+        <div class="alert alert-info">No applications yet.</div>
+    }
+    else
+    {
+        foreach (var app in Model)
+        {
+            <div class="card mb-3 shadow-sm">
+                <div class="card-header d-flex justify-content-between align-items-center">
+                    <div>
+                        <strong>@(string.IsNullOrEmpty(app.FullName) ? $"Applicant #{app.Id}" : app.FullName)</strong>
+                        <div class="text-muted small">@app.Email</div>
+                    </div>
+                    <div class="text-end small text-muted">
+                        Submitted: @(app.SubmittedAt.ToLocalTime().ToString("yyyy-MM-dd HH:mm"))
+                    </div>
+                </div>
+
+                <div class="card-body">
+                    @if (app.CandidateResponses != null && app.CandidateResponses.Any())
+                    {
+                        <table class="table table-sm table-bordered">
+                            <thead class="table-light">
+                                <tr>
+                                    <th style="width:40%;">Field</th>
+                                    <th>Response</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var r in app.CandidateResponses)
+                                {
+                                    <tr>
+                                        <td>@(r.CandidateField?.FieldName ?? "N/A")</td>
+                                        <td>
+                                            @if (!string.IsNullOrEmpty(r.Response) && r.Response.StartsWith("/uploads/"))
+                                            {
+                                                <a href="@Url.Content(r.Response)" target="_blank" class="btn btn-sm btn-outline-primary">
+                                                    📎 Download File
+                                                </a>
+                                            }
+                                            else
+                                            {
+                                                @r.Response
+                                            }
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    }
+                    else
+                    {
+                        <div class="text-muted">No responses submitted.</div>
+                    }
+                </div>
+            </div>
+        }
+    }
+</div>

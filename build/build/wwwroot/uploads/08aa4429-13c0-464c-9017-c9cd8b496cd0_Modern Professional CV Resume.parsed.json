@@ -1,0 +1,156 @@
+{
+  "RawText": "Education\nBachelor of Business Management\nBorcelle University 2016 - 2020\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit\namet sem nec risus egestas accumsan. In enim nunc, tincidunt ut\nquam eget, luctus sollicitudin neque. Sed leo nisl, semper ac\nhendrerit a, sollicitudin in arcu.\nBachelor of Business Management\nBorcelle University 2020 - 2023\nLorna\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit\namet sem nec risus egestas accumsan. In enim nunc, tincidunt ut\nAlvarado\nquam eget, luctus sollicitudin neque. Sed leo nisl, semper ac\nhendrerit a, sollicitudin in arcu.\nMarketing Manager\nContact Experience\nProduct Design Manager\n\u002B123-456-7890\nArowwai Industries 2016 - 2020\nhello@reallygreatsite.com\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit\namet sem nec risus egestas accumsan. In enim nunc, tincidunt ut\n123 Anywhere St., Any City, ST 12345\nquam eget, luctus sollicitudin neque.\nMarketing Manager\nArowwai Industries 2019 - 2020\nAbout Me\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit\namet sem nec risus egestas accumsan. In enim nunc, tincidunt ut\nquam eget, luctus sollicitudin neque.\nLorem ipsum dolor sit amet,\nconsectetur adipiscing elit, sed do\nMarketing Manager\neiusmod tempor incididunt ut labore Arowwai Industries 2017- 2019\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit\net dolore magna aliqua. Ut enim ad\namet sem nec risus egestas accumsan. In enim nunc, tincidunt ut\nminim veniam, quis nostrud\nquam eget, luctus sollicitudin neque.\nexercitation ullamco laboris nisi ut\naliquip ex ea commodo consequat.\nMarketing Manager\n2016- 2017\nArowwai Industries\nSkills\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit\namet sem nec risus egestas accumsan. In enim nunc, tincidunt ut\nquam eget, luctus sollicitudin neque.\nManagement Skills\nCreativity\nReferences\nDigital Marketing\nNegotiation\nHarumi Kobayashi Bailey Dupont\nWardiere Inc. / CEO Wardiere Inc. / CEO\nCritical Thinking\nPhone: Phone:\n123-456-7890 123-456-7890\nLeadership\nEmail : hello@reallygreatsite.com Email : hello@reallygreatsite.com",
+  "Emails": [
+    "hello@reallygreatsite.com"
+  ],
+  "Phones": [
+    "2016 - 2020",
+    "2020 - 2023",
+    "\u002B123-456-7890",
+    "2016 - 2020",
+    "2019 - 2020",
+    "2017- 2019",
+    "2016- 2017"
+  ],
+  "Name": "Hello",
+  "Skills": [
+    "Lorem ipsum dolor sit amet",
+    "consectetur adipiscing elit. Nunc sit",
+    "amet sem nec risus egestas accumsan. In enim nunc",
+    "tincidunt ut",
+    "quam eget",
+    "luctus sollicitudin neque.",
+    "Management Skills",
+    "Creativity",
+    "References",
+    "Digital Marketing",
+    "Negotiation",
+    "Harumi Kobayashi Bailey Dupont",
+    "Wardiere Inc. / CEO Wardiere Inc. / CEO",
+    "Critical Thinking",
+    "Phone: Phone:",
+    "123",
+    "456",
+    "7890 123",
+    "7890",
+    "Leadership",
+    "Email : hello@reallygreatsite.com Email : hello@reallygreatsite.com"
+  ],
+  "Experience": [],
+  "Education": [
+    {
+      "Institution": "",
+      "Degree": "Bachelor of Business Management",
+      "DateRange": "",
+      "Description": ""
+    },
+    {
+      "Institution": "Borcelle University",
+      "Degree": "",
+      "DateRange": "2016 - 2020",
+      "Description": ""
+    },
+    {
+      "Institution": "",
+      "Degree": "Bachelor of Business Management",
+      "DateRange": "",
+      "Description": ""
+    },
+    {
+      "Institution": "Borcelle University",
+      "Degree": "",
+      "DateRange": "2020 - 2023",
+      "Description": ""
+    },
+    {
+      "Institution": "",
+      "Degree": "Arowwai Industries",
+      "DateRange": "2016 - 2020",
+      "Description": ""
+    },
+    {
+      "Institution": "",
+      "Degree": "Arowwai Industries",
+      "DateRange": "2019 - 2020",
+      "Description": ""
+    },
+    {
+      "Institution": "",
+      "Degree": "eiusmod tempor incididunt ut labore Arowwai Industries",
+      "DateRange": "2017- 2019",
+      "Description": ""
+    },
+    {
+      "Institution": "",
+      "Degree": "",
+      "DateRange": "2016- 2017",
+      "Description": ""
+    }
+  ],
+  "Sections": {
+    "top": [],
+    "education": [
+      "Bachelor of Business Management",
+      "Borcelle University 2016 - 2020",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit",
+      "amet sem nec risus egestas accumsan. In enim nunc, tincidunt ut",
+      "quam eget, luctus sollicitudin neque. Sed leo nisl, semper ac",
+      "hendrerit a, sollicitudin in arcu.",
+      "Bachelor of Business Management",
+      "Borcelle University 2020 - 2023",
+      "Lorna",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit",
+      "amet sem nec risus egestas accumsan. In enim nunc, tincidunt ut",
+      "Alvarado",
+      "quam eget, luctus sollicitudin neque. Sed leo nisl, semper ac",
+      "hendrerit a, sollicitudin in arcu.",
+      "Marketing Manager",
+      "Contact Experience",
+      "Product Design Manager",
+      "\u002B123-456-7890",
+      "Arowwai Industries 2016 - 2020",
+      "hello@reallygreatsite.com",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit",
+      "amet sem nec risus egestas accumsan. In enim nunc, tincidunt ut",
+      "123 Anywhere St., Any City, ST 12345",
+      "quam eget, luctus sollicitudin neque.",
+      "Marketing Manager",
+      "Arowwai Industries 2019 - 2020",
+      "About Me",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit",
+      "amet sem nec risus egestas accumsan. In enim nunc, tincidunt ut",
+      "quam eget, luctus sollicitudin neque.",
+      "Lorem ipsum dolor sit amet,",
+      "consectetur adipiscing elit, sed do",
+      "Marketing Manager",
+      "eiusmod tempor incididunt ut labore Arowwai Industries 2017- 2019",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit",
+      "et dolore magna aliqua. Ut enim ad",
+      "amet sem nec risus egestas accumsan. In enim nunc, tincidunt ut",
+      "minim veniam, quis nostrud",
+      "quam eget, luctus sollicitudin neque.",
+      "exercitation ullamco laboris nisi ut",
+      "aliquip ex ea commodo consequat.",
+      "Marketing Manager",
+      "2016- 2017",
+      "Arowwai Industries"
+    ],
+    "skills": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit",
+      "amet sem nec risus egestas accumsan. In enim nunc, tincidunt ut",
+      "quam eget, luctus sollicitudin neque.",
+      "Management Skills",
+      "Creativity",
+      "References",
+      "Digital Marketing",
+      "Negotiation",
+      "Harumi Kobayashi Bailey Dupont",
+      "Wardiere Inc. / CEO Wardiere Inc. / CEO",
+      "Critical Thinking",
+      "Phone: Phone:",
+      "123-456-7890 123-456-7890",
+      "Leadership",
+      "Email : hello@reallygreatsite.com Email : hello@reallygreatsite.com"
+    ]
+  }
+}

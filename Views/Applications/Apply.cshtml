@@ -1,0 +1,65 @@
+﻿@model ATSProject.Models.Job
+@{
+    ViewData["Title"] = "Apply for Job";
+}
+
+<div class="container mt-5 mb-5">
+    <div class="card shadow-lg border-0 rounded-3">
+        <div class="card-header bg-primary text-white text-center py-3">
+            <h2 class="mb-0">Apply for: @Model.JobTitle</h2>
+        </div>
+        <div class="card-body p-4">
+            <p class="text-muted">@Model.Description</p>
+
+            <form asp-action="Apply" method="post" enctype="multipart/form-data">
+                <input type="hidden" name="jobId" value="@Model.Id" />
+
+                @if (Model.JobRequiredFields != null && Model.JobRequiredFields.Any())
+                {
+                    @foreach (var field in Model.JobRequiredFields)
+                    {
+                        if (field?.CandidateField != null)
+                        {
+                            <div class="mb-3">
+                                <label class="form-label fw-bold">@field.CandidateField.FieldName</label>
+
+                                @if (field.CandidateField.FieldType == "Text")
+                                {
+                                    <input type="text" class="form-control"
+                                           name="field_@field.CandidateFieldId"
+                                           placeholder="Enter @field.CandidateField.FieldName" required />
+                                }
+                                else if (field.CandidateField.FieldType == "Email")
+                                {
+                                    <input type="email" class="form-control"
+                                           name="field_@field.CandidateFieldId"
+                                           placeholder="Enter valid email" required />
+                                }
+                                else if (field.CandidateField.FieldType == "File")
+                                {
+                                    <input type="file" class="form-control"
+                                           name="field_@field.CandidateFieldId" />
+                                }
+                                else if (field.CandidateField.FieldType == "Date")
+                                {
+                                    <input type="date" class="form-control"
+                                           name="field_@field.CandidateFieldId" />
+                                }
+                            </div>
+                        }
+                    }
+                }
+                else
+                {
+                    <p class="text-muted">⚠️ No specific fields are defined for this job.</p>
+                }
+
+                <div class="text-center mt-4">
+                    <button type="submit" class="btn btn-lg btn-success px-5 rounded-pill">
+                        🚀 Submit Application
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,49 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.card {
+    border-radius: 15px;
+    transition: transform 0.2s ease-in-out;
+}
+
+    .card:hover {
+        transform: translateY(-5px);
+    }
+
+.btn-primary {
+    background: linear-gradient(90deg, #0062E6, #33AEFF);
+    border: none;
+}
+
+    .btn-primary:hover {
+        background: linear-gradient(90deg, #0050b3, #1a8cff);
+    }
+
+.btn-success {
+    background: linear-gradient(90deg, #28a745, #4cd964);
+    border: none;
+}
+
+    .btn-success:hover {
+        background: linear-gradient(90deg, #218838, #2eb82e);
+    }

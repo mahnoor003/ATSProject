@@ -1,0 +1,154 @@
+{
+  "RawText": "OLIVIA WILSON\nGraphics Designer\n\u002B123-456-7890 hello@reallygreatsite.com\nwww.reallygreatsite.com\nEDUCATION PROFILE\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do\nBachelor of Design\neiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim\nWardiere University\nad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\n2006 - 2008\naliquip ex ea commodo consequat.\nBachelor of Design\nWardiere University\n2006 - 2008\nWORK EXPERIENCE\nBachelor of Design\n2 0 2 0 \u2013 2 0 2 3\nGinyard International Co.\nWardiere University\nProduct Design Manager\n2006 - 2008\nWorking with the wider development team.\nManage website design, content, and SEO Marketing,\nBranding and Logo Design\nEXPERTISE\nManagement Skills 2 0 1 9 - 2 0 2 0\nArowwai Industries\nProduct Design Manager\nDigital Marketing\nWorking with the wider development team.\nManage website design, content, and SEO Marketing,\nNegotiation\nBranding and Logo Design\nCritical Thinking\n2 0 1 7 - 2 0 1 9\nGinyard International Co.\nCommunication Skills\nProduct Design Manager\nDigital Marketing\nWorking with the wider development team.\nManage website design, content, and SEO Marketing,\nNegotiation\nBranding and Logo Design\nLANGUAGE REFERENCES\nEnglish\nBailey Dupont Harumi Kobayashi\nWardiere Inc. / CEO Wardiere Inc. / CEO\nSpanish\nPhone: Phone:\n123-456-7890 123-456-7890\nEmail : Email :\nhello@reallygreatsite.com hello@reallygreatsite.com\nFrench",
+  "Emails": [
+    "hello@reallygreatsite.com"
+  ],
+  "Phones": [
+    "\u002B123-456-7890",
+    "2006 - 2008",
+    "2006 - 2008",
+    "2006 - 2008",
+    "2 0 1 9 - 2 0 2 0",
+    "2 0 1 7 - 2 0 1 9"
+  ],
+  "Name": "Olivia Wilson",
+  "Skills": [
+    "Arowwai Industries",
+    "Digital Marketing",
+    "Working with the wider development team.",
+    "Manage website design",
+    "content",
+    "and SEO Marketing",
+    "Negotiation",
+    "Branding and Logo Design",
+    "Critical Thinking",
+    "2 0 1 7",
+    "2 0 1 9",
+    "Ginyard International Co.",
+    "Digital Marketing",
+    "Working with the wider development team.",
+    "Manage website design",
+    "content",
+    "and SEO Marketing",
+    "Negotiation",
+    "Branding and Logo Design",
+    "LANGUAGE REFERENCES",
+    "English",
+    "Bailey Dupont Harumi Kobayashi",
+    "Wardiere Inc. / CEO Wardiere Inc. / CEO",
+    "Spanish",
+    "Phone: Phone:",
+    "123",
+    "456",
+    "7890 123",
+    "7890",
+    "Email : Email :",
+    "hello@reallygreatsite.com hello@reallygreatsite.com",
+    "French"
+  ],
+  "Experience": [
+    {
+      "Title": "Ginyard International Co. | Wardiere University | Product Design Manager",
+      "Company": "",
+      "DateRange": "2006 - 2008",
+      "Description": ""
+    }
+  ],
+  "Education": [
+    {
+      "Institution": "",
+      "Degree": "Bachelor of Design",
+      "DateRange": "",
+      "Description": ""
+    },
+    {
+      "Institution": "Wardiere University",
+      "Degree": "",
+      "DateRange": "",
+      "Description": ""
+    },
+    {
+      "Institution": "",
+      "Degree": "",
+      "DateRange": "2006 - 2008",
+      "Description": ""
+    },
+    {
+      "Institution": "",
+      "Degree": "Bachelor of Design",
+      "DateRange": "",
+      "Description": ""
+    },
+    {
+      "Institution": "Wardiere University",
+      "Degree": "",
+      "DateRange": "",
+      "Description": ""
+    },
+    {
+      "Institution": "",
+      "Degree": "",
+      "DateRange": "2006 - 2008",
+      "Description": ""
+    }
+  ],
+  "Sections": {
+    "top": [
+      "OLIVIA WILSON",
+      "Graphics Designer",
+      "\u002B123-456-7890 hello@reallygreatsite.com",
+      "www.reallygreatsite.com"
+    ],
+    "education": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+      "Bachelor of Design",
+      "eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim",
+      "Wardiere University",
+      "ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut",
+      "2006 - 2008",
+      "aliquip ex ea commodo consequat.",
+      "Bachelor of Design",
+      "Wardiere University",
+      "2006 - 2008"
+    ],
+    "experience": [
+      "Bachelor of Design",
+      "2 0 2 0 \u2013 2 0 2 3",
+      "Ginyard International Co.",
+      "Wardiere University",
+      "Product Design Manager",
+      "2006 - 2008",
+      "Working with the wider development team.",
+      "Manage website design, content, and SEO Marketing,",
+      "Branding and Logo Design"
+    ],
+    "skills": [
+      "Arowwai Industries",
+      "Product Design Manager",
+      "Digital Marketing",
+      "Working with the wider development team.",
+      "Manage website design, content, and SEO Marketing,",
+      "Negotiation",
+      "Branding and Logo Design",
+      "Critical Thinking",
+      "2 0 1 7 - 2 0 1 9",
+      "Ginyard International Co.",
+      "Product Design Manager",
+      "Digital Marketing",
+      "Working with the wider development team.",
+      "Manage website design, content, and SEO Marketing,",
+      "Negotiation",
+      "Branding and Logo Design",
+      "LANGUAGE REFERENCES",
+      "English",
+      "Bailey Dupont Harumi Kobayashi",
+      "Wardiere Inc. / CEO Wardiere Inc. / CEO",
+      "Spanish",
+      "Phone: Phone:",
+      "123-456-7890 123-456-7890",
+      "Email : Email :",
+      "hello@reallygreatsite.com hello@reallygreatsite.com",
+      "French"
+    ]
+  }
+}

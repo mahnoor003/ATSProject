@@ -1,0 +1,400 @@
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\ATSProject
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\appsettings.Development.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\appsettings.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\appsettings.Development.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\appsettings.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\ATSProject.deps.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\ATSProject.runtimeconfig.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\ATSProject.staticwebassets.endpoints.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\appsettings.Development.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\appsettings.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\ATSProject.deps.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\ATSProject.runtimeconfig.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\ATSProject.staticwebassets.endpoints.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\Credentials\credentials.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\Credentials\Credentialsold.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\00e4330d-3afa-480d-bb3e-0bcdfdf89746_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\0195a9a1-54a8-4688-b7ad-531d7c63bc6a_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\01e85b97-11e1-4f69-bea8-feee95a345ef_Professional Minimalist CV Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\02096715-aa17-4446-893c-c00d6cf2b01f_White simple Sales Representative Cv Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\08aa4429-13c0-464c-9017-c9cd8b496cd0_Modern Professional CV Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\0c5b1b90-8e35-4053-bf75-70275521d02c_Mahnoor Muzafar - Resume (1) (1) (1).parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\0cf7caf0-9f9d-4bf7-98d6-beae98981108_Modern Professional CV Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\10eec3e7-09d6-4e85-90e1-4bf864372090_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\14bf11ff-a3cc-4b0f-918b-b81466965164_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\254eeb64-3d35-4ac7-8992-ecec680c724d_Mahnoor Muzafar - Resume (1) (1) (1).parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\264fc043-5b21-4871-8a50-78eac5e20d82_Professional Minimalist CV Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\266ff5eb-05cb-49fe-a497-1cbd0b864485_new cv.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\2cc17322-dd25-45df-b5da-187a230bae18_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\2ed62109-f441-4086-ac38-954c39325b81_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\329c387a-8584-4880-9903-745ddf69cb60_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\379dce45-e2da-4f4d-8d20-72ecaa742f6d_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\39fa8e89-f841-4875-8959-eab69d476d30_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\3b45c598-a5be-4ec7-ac5e-395b1ace6c11_Modern Minimalist CV Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\43d9fbc9-aed6-4d24-a04e-4cfd7f7c7c16_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\47255a55-ea10-493d-abdb-390920bacedf_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\47a9b3c6-397f-4571-9188-b4e8a276acfa_Modern Professional CV Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\5308297f-533d-4894-89cb-1389efdd6114_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\53438e48-9425-4661-94a8-631f5da705fc_Mahnoor Muzafar - Resume (1) (1) (1).parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\546488b8-d2ee-4db4-b868-2eebd3ef265e_Professional Minimalist CV Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\63258ffd-b0a7-463e-b70d-dd6b91b50e47_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\679e3544-c547-4d87-b0a9-0e581ae5b6ff_new cv.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\68ef5cf6-9135-44fa-a3d2-baf33ebef0d4_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\6ecdb5fc-9bab-4e60-88bb-2e014bc05dd7_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\6edac14b-bfd0-4c54-aa7f-10d9101be713_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\73141c8c-5d68-461a-bcc3-631dc52764ab_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\77b1e558-d5d1-449c-bd93-010d52b4a166_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\7841ccf9-0ff1-4f4b-b870-44ea95b2f7b7_Professional Minimalist CV Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\78cba75a-35ae-4501-87fc-b482d6a7eb28_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\792509bc-02b5-4bd5-8a49-bb56ccb316e7_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\81e39e4b-751e-462c-8c16-fcc0b644bf38_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\888e1d7b-d1cd-4250-890d-396eb76fc759_White simple Sales Representative Cv Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\8dbe3eeb-c81b-409b-b093-35be5f52ecca_Modern Professional CV Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\9192c5d3-aead-4def-9582-43ef01d40638_Professional Minimalist CV Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\91f5465f-5622-45d5-9bd6-a9df262b4144_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\9aa2d799-fdf7-47f9-b7d7-bdb47c9657e6_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\9ed08888-32e3-456f-a73e-c23a48bdbf89_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\a24d4ed8-4217-4df7-a392-19b3d006e906_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\a756efa7-9469-4d50-a2da-1aef88e141f9_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\a7c85e10-94ad-4871-a1b8-83d9ba030e99_Professional Minimalist CV Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\ac3c6b24-45de-49e9-b580-8478b64e849c_Professional Minimalist CV Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\ad412c71-b634-49f6-a158-2de1c20c9fd8_new cv.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\b56bbb55-5861-4eb1-91a2-77cfa954b68c_Professional Minimalist CV Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\bfd2ed26-7d09-4ee3-9be5-eabacd8960ba_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\c1ebc9b7-51c3-4097-bd76-68246934c5b1_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\c8dd25b6-7015-40c6-8b6e-b0ed85db795a_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\caec8394-9d9f-427e-88b7-5fac2ef5f9f5_new cv.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\d05ff4ab-5ae0-43d3-90fa-0445f331e01e_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\d69781cd-8cfb-4f1d-85fd-108b325966ea_new cv.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\d81a28f5-9f6a-4952-b34e-509ee6d98ca9_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\d8554a5f-338a-4b1a-8513-9553df66620b_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\da6d8405-41a3-46cb-a2a5-2adde6f15841_Professional Minimalist CV Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\db203182-7471-46f8-8d98-d655ccbadeda_new cv.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\dc7dbfa8-c9f5-4506-9a20-f553b0cb0ad2_new cv.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\dffc3d83-cbb9-43cb-b15f-b90f58981a9d_Modern Professional CV Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\e00ae14e-0ed6-4354-98f2-70a0bf2b344d_Mahnoor Muzafar - Resume (1) (1) (1).parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\e1904eed-b0d1-4d7d-9132-dfdc679a04ea_Professional Minimalist CV Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\e7863929-c235-46c1-8bb4-2bfbcc5876bd_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\ebfc2223-98b5-4fa3-a98c-010e631168f7_Professional Minimalist CV Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\ec50324b-f67a-4c81-916b-6bd860003ff2_Mahnoor Muzafar - Resume (1) (1) (1).parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\ecd8eb33-f8f6-420e-a604-fea95f1c6c63_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\build\wwwroot\uploads\f0990ff1-9357-4fa6-96e0-3702404d281b_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\Credentials\credentials.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\Credentials\Credentialsold.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\00e4330d-3afa-480d-bb3e-0bcdfdf89746_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\0195a9a1-54a8-4688-b7ad-531d7c63bc6a_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\01e85b97-11e1-4f69-bea8-feee95a345ef_Professional Minimalist CV Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\02096715-aa17-4446-893c-c00d6cf2b01f_White simple Sales Representative Cv Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\08aa4429-13c0-464c-9017-c9cd8b496cd0_Modern Professional CV Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\0c5b1b90-8e35-4053-bf75-70275521d02c_Mahnoor Muzafar - Resume (1) (1) (1).parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\0cf7caf0-9f9d-4bf7-98d6-beae98981108_Modern Professional CV Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\10eec3e7-09d6-4e85-90e1-4bf864372090_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\14bf11ff-a3cc-4b0f-918b-b81466965164_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\254eeb64-3d35-4ac7-8992-ecec680c724d_Mahnoor Muzafar - Resume (1) (1) (1).parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\264fc043-5b21-4871-8a50-78eac5e20d82_Professional Minimalist CV Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\266ff5eb-05cb-49fe-a497-1cbd0b864485_new cv.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\2cc17322-dd25-45df-b5da-187a230bae18_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\2ed62109-f441-4086-ac38-954c39325b81_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\329c387a-8584-4880-9903-745ddf69cb60_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\379dce45-e2da-4f4d-8d20-72ecaa742f6d_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\39fa8e89-f841-4875-8959-eab69d476d30_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\3b45c598-a5be-4ec7-ac5e-395b1ace6c11_Modern Minimalist CV Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\43d9fbc9-aed6-4d24-a04e-4cfd7f7c7c16_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\47255a55-ea10-493d-abdb-390920bacedf_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\47a9b3c6-397f-4571-9188-b4e8a276acfa_Modern Professional CV Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\5308297f-533d-4894-89cb-1389efdd6114_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\53438e48-9425-4661-94a8-631f5da705fc_Mahnoor Muzafar - Resume (1) (1) (1).parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\546488b8-d2ee-4db4-b868-2eebd3ef265e_Professional Minimalist CV Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\63258ffd-b0a7-463e-b70d-dd6b91b50e47_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\679e3544-c547-4d87-b0a9-0e581ae5b6ff_new cv.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\68ef5cf6-9135-44fa-a3d2-baf33ebef0d4_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\6ecdb5fc-9bab-4e60-88bb-2e014bc05dd7_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\6edac14b-bfd0-4c54-aa7f-10d9101be713_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\73141c8c-5d68-461a-bcc3-631dc52764ab_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\77b1e558-d5d1-449c-bd93-010d52b4a166_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\7841ccf9-0ff1-4f4b-b870-44ea95b2f7b7_Professional Minimalist CV Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\78cba75a-35ae-4501-87fc-b482d6a7eb28_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\792509bc-02b5-4bd5-8a49-bb56ccb316e7_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\81e39e4b-751e-462c-8c16-fcc0b644bf38_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\888e1d7b-d1cd-4250-890d-396eb76fc759_White simple Sales Representative Cv Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\8dbe3eeb-c81b-409b-b093-35be5f52ecca_Modern Professional CV Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\9192c5d3-aead-4def-9582-43ef01d40638_Professional Minimalist CV Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\91f5465f-5622-45d5-9bd6-a9df262b4144_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\9aa2d799-fdf7-47f9-b7d7-bdb47c9657e6_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\9ed08888-32e3-456f-a73e-c23a48bdbf89_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\a24d4ed8-4217-4df7-a392-19b3d006e906_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\a756efa7-9469-4d50-a2da-1aef88e141f9_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\a7c85e10-94ad-4871-a1b8-83d9ba030e99_Professional Minimalist CV Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\ac3c6b24-45de-49e9-b580-8478b64e849c_Professional Minimalist CV Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\ad412c71-b634-49f6-a158-2de1c20c9fd8_new cv.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\b56bbb55-5861-4eb1-91a2-77cfa954b68c_Professional Minimalist CV Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\bfd2ed26-7d09-4ee3-9be5-eabacd8960ba_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\c1ebc9b7-51c3-4097-bd76-68246934c5b1_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\c8dd25b6-7015-40c6-8b6e-b0ed85db795a_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\caec8394-9d9f-427e-88b7-5fac2ef5f9f5_new cv.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\d05ff4ab-5ae0-43d3-90fa-0445f331e01e_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\d69781cd-8cfb-4f1d-85fd-108b325966ea_new cv.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\d81a28f5-9f6a-4952-b34e-509ee6d98ca9_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\d8554a5f-338a-4b1a-8513-9553df66620b_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\da6d8405-41a3-46cb-a2a5-2adde6f15841_Professional Minimalist CV Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\db203182-7471-46f8-8d98-d655ccbadeda_new cv.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\dc7dbfa8-c9f5-4506-9a20-f553b0cb0ad2_new cv.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\dffc3d83-cbb9-43cb-b15f-b90f58981a9d_Modern Professional CV Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\e00ae14e-0ed6-4354-98f2-70a0bf2b344d_Mahnoor Muzafar - Resume (1) (1) (1).parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\e1904eed-b0d1-4d7d-9132-dfdc679a04ea_Professional Minimalist CV Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\e7863929-c235-46c1-8bb4-2bfbcc5876bd_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\ebfc2223-98b5-4fa3-a98c-010e631168f7_Professional Minimalist CV Resume.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\ec50324b-f67a-4c81-916b-6bd860003ff2_Mahnoor Muzafar - Resume (1) (1) (1).parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\ecd8eb33-f8f6-420e-a604-fea95f1c6c63_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\build\wwwroot\uploads\f0990ff1-9357-4fa6-96e0-3702404d281b_Resume-Nimra-Akram-1.parsed.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Credentials\credentials.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Credentials\Credentialsold.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\ATSProject.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\ATSProject.runtimeconfig.json
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\ATSProject.pdb
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Azure.Core.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Azure.Identity.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\BouncyCastle.Cryptography.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\DocumentFormat.OpenXml.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Xceed.Document.NET.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Xceed.Drawing.NET.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Xceed.Words.NET.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Google.Apis.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Google.Apis.Auth.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Google.Apis.Core.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Google.Apis.Gmail.v1.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Google.Apis.Sheets.v4.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Humanizer.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\itextsharp.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\LiteX Email Core.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\LiteX.Log.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\MailKit.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.Build.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.Build.Framework.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.CodeAnalysis.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.CodeAnalysis.Features.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.Data.SqlClient.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.DiaSymReader.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.Extensions.DependencyModel.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.Extensions.Logging.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.Extensions.Options.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.Identity.Client.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.NET.StringTools.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.SqlServer.Server.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\dotnet-aspnet-codegenerator-design.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\MimeKit.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Mono.TextTemplating.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Newtonsoft.Json.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\NuGet.Common.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\NuGet.Configuration.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\NuGet.DependencyResolver.Core.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\NuGet.Frameworks.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\NuGet.LibraryModel.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\NuGet.Packaging.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\NuGet.ProjectModel.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\NuGet.Protocol.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\NuGet.Versioning.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\SkiaSharp.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Spire.DataExport.ResourceMgr.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Spire.DataExport.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\Spire.License.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\System.ClientModel.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\System.CodeDom.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\System.Composition.AttributedModel.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\System.Composition.Convention.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\System.Composition.Hosting.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\System.Composition.Runtime.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\System.Composition.TypedParts.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\System.Drawing.Common.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\System.Formats.Asn1.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\System.IO.Packaging.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\System.IO.Pipelines.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\System.Management.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\System.Memory.Data.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\System.Reflection.MetadataLoadContext.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\System.Runtime.Caching.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\System.Security.Cryptography.Pkcs.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\System.Security.Permissions.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\System.Text.Encodings.Web.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\System.Text.Json.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\System.Windows.Extensions.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\af\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\ar\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\az\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\bg\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\bn-BD\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\cs\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\da\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\de\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\el\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\es\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\fa\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\fi-FI\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\fr\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\fr-BE\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\he\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\hr\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\hu\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\hy\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\id\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\is\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\it\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\ja\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\ko-KR\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\ku\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\lv\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\ms-MY\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\mt\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\nb\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\nb-NO\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\nl\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\pl\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\pt\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\ro\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\ru\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\sk\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\sl\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\sr\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\sr-Latn\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\sv\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\th-TH\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\tr\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\uk\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\vi\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\zh-CN\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\zh-Hans\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\zh-Hant\Humanizer.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USER\source\repos\ATSProject\ATSProject\build\ATSProject.deps.json

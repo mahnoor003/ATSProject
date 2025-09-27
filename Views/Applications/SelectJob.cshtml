@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Select Job";
+}
+
+<div class="container mt-5">
+    <div class="card shadow-lg border-0 rounded-3">
+        <div class="card-header bg-primary text-white text-center py-3">
+            <h2 class="mb-0">🎯 Select a Job to Apply</h2>
+        </div>
+        <div class="card-body p-4">
+            <form asp-action="SelectJob" method="post">
+                <div class="mb-3">
+                    <label class="form-label fw-bold">Available Jobs</label>
+                    <select class="form-select" name="jobId" required>
+                        <option value="">-- Select Job --</option>
+                        @foreach (var job in ViewBag.Jobs)
+                        {
+                            <option value="@job.Value">@job.Text</option>
+                        }
+                    </select>
+                </div>
+
+                <div class="text-center mt-4">
+                    <button type="submit" class="btn btn-lg btn-success px-5">Next ➡️</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "ATSProject.Controllers.EmailController",
+    "Method": "Fetch",
+    "RelativePath": "api/email/fetch",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ATSProject.Controllers.EmailController",
+    "Method": "Test",
+    "RelativePath": "api/email/test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

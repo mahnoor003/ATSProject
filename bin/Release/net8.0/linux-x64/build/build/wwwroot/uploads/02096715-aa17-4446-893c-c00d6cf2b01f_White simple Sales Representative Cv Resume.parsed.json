@@ -1,0 +1,115 @@
+{
+  "RawText": "DONNA STROUPE\nSales Representative\nAbout Me\n\u002B123-456-7890\nhello@reallygreatsite.com\nI am a Sales Representative is a professional who initializes and\nmanages relationships with customers. They serve as their point of\n123 Anywhere St., Any City, ST 12345\ncontact and lead from initial outreach through the making of the\nfinal purchase by them or someone in their household.\nEDUCATION\nWORK EXPERIENCE\nBA Sales and Commerce\nAug 2018 - present\nAug 2018 - present\nWardiere University\nTimmerman Industries\n2011 - 2015\nConsumer Goods Seller\nOffer consumer goods packages to corporate and clients\nBA Sales and Commerce\nMeet with clients every quarter to update or renew services\nWardiere University\n2011 - 2015\nTrain junior sales agents\nJul 2015 - Aug 2018\nTimmerman Industries\nSKILLS\nFMCG Sales Agent\nVisited corporate client offices to offer latest products\nFast-moving Consumer Goods\nBuilt relationships with clients to maintain sales goals and create\nPackaged Consumer Goods\nnew opportunities\nSales\nAug 2014 - Jul 2015\nCorporate sales account\nTimmerman Industries\nmanagement\nSales Agent\nExperience in retail Visited corporate client offices to offer latest products\nLANGUAGE REFERENCES\nEnglish Estelle Darcy Harper Russo\nWardiere Inc. / CEO Wardiere Inc. / CEO\nFrench\nPhone: \u002B123-456-7890 Phone: \u002B123-456-7890\nEmail : Email :\nhello@reallygreatsite.com hello@reallygreatsite.com",
+  "Emails": [
+    "hello@reallygreatsite.com"
+  ],
+  "Phones": [
+    "\u002B123-456-7890",
+    "2011 - 2015",
+    "2011 - 2015",
+    "\u002B123-456-7890",
+    "\u002B123-456-7890"
+  ],
+  "Name": "Donna Stroupe",
+  "Skills": [
+    "FMCG Sales Agent",
+    "Visited corporate client offices to offer latest products",
+    "Fast",
+    "moving Consumer Goods",
+    "Built relationships with clients to maintain sales goals and create",
+    "Packaged Consumer Goods",
+    "new opportunities",
+    "Sales",
+    "Corporate sales account",
+    "Timmerman Industries",
+    "management",
+    "Sales Agent"
+  ],
+  "Experience": [
+    {
+      "Title": "",
+      "Company": "BA Sales and Commerce",
+      "DateRange": "Aug 2018 - present",
+      "Description": ""
+    },
+    {
+      "Title": "",
+      "Company": "BA Sales and Commerce",
+      "DateRange": "Aug 2018 - present",
+      "Description": ""
+    },
+    {
+      "Title": "",
+      "Company": "Timmerman Industries",
+      "DateRange": "2011 - 2015",
+      "Description": ""
+    },
+    {
+      "Title": "",
+      "Company": "Wardiere University",
+      "DateRange": "2011 - 2015",
+      "Description": ""
+    },
+    {
+      "Title": "",
+      "Company": "Train junior sales agents",
+      "DateRange": "Jul 2015 - Aug 2018",
+      "Description": ""
+    }
+  ],
+  "Education": [],
+  "Sections": {
+    "top": [
+      "DONNA STROUPE",
+      "Sales Representative",
+      "About Me",
+      "\u002B123-456-7890",
+      "hello@reallygreatsite.com",
+      "I am a Sales Representative is a professional who initializes and",
+      "manages relationships with customers. They serve as their point of",
+      "123 Anywhere St., Any City, ST 12345",
+      "contact and lead from initial outreach through the making of the",
+      "final purchase by them or someone in their household."
+    ],
+    "education": [],
+    "experience": [
+      "BA Sales and Commerce",
+      "Aug 2018 - present",
+      "Aug 2018 - present",
+      "Wardiere University",
+      "Timmerman Industries",
+      "2011 - 2015",
+      "Consumer Goods Seller",
+      "Offer consumer goods packages to corporate and clients",
+      "BA Sales and Commerce",
+      "Meet with clients every quarter to update or renew services",
+      "Wardiere University",
+      "2011 - 2015",
+      "Train junior sales agents",
+      "Jul 2015 - Aug 2018",
+      "Timmerman Industries"
+    ],
+    "skills": [
+      "FMCG Sales Agent",
+      "Visited corporate client offices to offer latest products",
+      "Fast-moving Consumer Goods",
+      "Built relationships with clients to maintain sales goals and create",
+      "Packaged Consumer Goods",
+      "new opportunities",
+      "Sales",
+      "Aug 2014 - Jul 2015",
+      "Corporate sales account",
+      "Timmerman Industries",
+      "management",
+      "Sales Agent",
+      "Experience in retail Visited corporate client offices to offer latest products",
+      "LANGUAGE REFERENCES",
+      "English Estelle Darcy Harper Russo",
+      "Wardiere Inc. / CEO Wardiere Inc. / CEO",
+      "French",
+      "Phone: \u002B123-456-7890 Phone: \u002B123-456-7890",
+      "Email : Email :",
+      "hello@reallygreatsite.com hello@reallygreatsite.com"
+    ]
+  }
+}

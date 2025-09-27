@@ -1,0 +1,35 @@
+﻿@model ATSProject.Models.Job
+@{
+    ViewData["Title"] = "Job Details";
+}
+
+<div class="container mt-5">
+    <div class="card shadow-lg border-0 rounded-3">
+        <div class="card-body p-5">
+            <h2 class="fw-bold text-primary">@Model.JobTitle</h2>
+            <p class="text-muted">📅 Posted on: @Model.CreatedAt.ToString("dd MMM yyyy")</p>
+            <p>@Model.Description</p>
+
+            @if (Model.JobRequiredFields != null && Model.JobRequiredFields.Any())
+            {
+                <h5 class="fw-bold mt-4">Required Fields:</h5>
+                <ul>
+                    @foreach (var field in Model.JobRequiredFields)
+                    {
+                        <li>@field.CandidateField?.FieldName (@field.CandidateField?.FieldType)</li>
+                    }
+                </ul>
+            }
+
+            <div class="mt-4">
+                <a asp-controller="Applications" asp-action="Apply" asp-route-jobId="@Model.Id"
+                   class="btn btn-primary btn-lg rounded-pill">
+                    Apply for this Job
+                </a>
+                <a asp-action="Index" class="btn btn-outline-secondary btn-lg rounded-pill ms-2">
+                    ← Back to Jobs
+                </a>
+            </div>
+        </div>
+    </div>
+</div>

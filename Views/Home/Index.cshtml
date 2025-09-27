@@ -1,0 +1,64 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container mt-5">
+    <div class="text-center mb-5">
+        <h1 class="fw-bold text-primary">🚀 Welcome to ATS Project</h1>
+        <p class="lead text-muted">Manage Jobs & Applications seamlessly</p>
+    </div>
+
+    <div class="row g-4">
+        <!-- Candidate Section -->
+        <div class="col-md-6">
+            <div class="card shadow-lg border-0 rounded-4 h-100">
+                <div class="card-body text-center p-4">
+                    <h3 class="card-title text-success">👩‍💼 For Candidates</h3>
+                    <p class="text-muted">Explore current openings and apply online easily.</p>
+                    <div class="d-grid gap-3 mt-3">
+                        <a href="/Jobs/Listings" class="btn btn-lg btn-outline-success">
+                            🌟 View Current Openings
+                        </a>
+                        <a href="/Candidates/Create" class="btn btn-lg btn-success">
+                            ⚡ Quick Apply (Simple Form)
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Recruiter Section -->
+        <div class="col-md-6">
+            <div class="card shadow-lg border-0 rounded-4 h-100">
+                <div class="card-body text-center p-4">
+                    <h3 class="card-title text-dark">🏢 For Recruiters</h3>
+                    <p class="text-muted">Post jobs and review applications.</p>
+                    <div class="d-grid gap-3 mt-3">
+                        <a href="/Jobs/Create" class="btn btn-lg btn-outline-dark">
+                            ➕ Post New Job
+                        </a>
+                        <a href="/Jobs/Index" class="btn btn-lg btn-dark">
+                            💼 Manage Jobs
+                        </a>
+                        <a href="/Jobs/ApplicantsDashboard" class="btn btn-lg btn-primary">
+                            👥 View Applicants
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Extra Section -->
+    <div class="row mt-5">
+        <div class="col-12">
+            <div class="alert alert-info text-center shadow-sm rounded-3">
+                <h4 class="mb-2">📨 Email Integration</h4>
+                <p class="mb-3">Fetch job applications directly from your email inbox.</p>
+                <a href="/api/email/fetch" class="btn btn-warning btn-lg">
+                    📩 Fetch Emails
+                </a>
+            </div>
+        </div>
+    </div>
+</div>

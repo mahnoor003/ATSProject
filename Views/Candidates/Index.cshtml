@@ -1,0 +1,77 @@
+﻿@model IEnumerable<ATSProject.Models.Candidate>
+
+@{
+    ViewData["Title"] = "Candidates List";
+}
+
+<h2 class="mb-4">📋 Candidates</h2>
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-info">@TempData["Message"]</div>
+}
+
+<table id="candidatesTable" class="table table-bordered table-striped table-hover align-middle">
+    <thead class="table-dark">
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Role Applied</th>
+            <th>Skills</th>
+            <th>Experience</th>
+            <th>Date Applied</th>
+            <th>Source</th>
+            <th>CV</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Email</td>
+                <td>@item.Phone</td>
+                <td>@item.RoleApplied</td>
+                <td>@item.Skills</td>
+                <td>@item.Experience</td>
+                <td>@item.DateApplied.ToString("yyyy-MM-dd HH:mm")</td>
+                <td>@item.Source</td>
+                <td>
+                    @if (!string.IsNullOrEmpty(item.CvFilePath))
+                    {
+                        <a class="btn btn-sm btn-outline-primary"
+                           href="@Url.Content(item.CvFilePath)"
+                           target="_blank">
+                            Download CV
+                        </a>
+                    }
+                    else
+                    {
+                        <span class="text-muted">No CV</span>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <!-- ✅ DataTables CSS & JS from CDN -->
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap5.min.css" />
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.6/js/dataTables.bootstrap5.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $('#candidatesTable').DataTable({
+                "pageLength": 10,   // Show 10 records per page
+                "lengthMenu": [5, 10, 25, 50], // Options for page size
+                "order": [[7, "desc"]] // Default sort by DateApplied (column index 7)
+            });
+        });
+    </script>
+}

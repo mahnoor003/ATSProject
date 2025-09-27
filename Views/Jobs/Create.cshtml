@@ -1,0 +1,93 @@
+﻿@model ATSProject.Models.Job
+
+<div class="container mt-5">
+    <div class="card shadow-lg border-0 rounded-3">
+        <div class="card-header bg-dark text-white text-center py-3">
+            <h2 class="mb-0">➕ Create New Job</h2>
+        </div>
+        <div class="card-body p-4">
+            <form asp-action="Create" method="post">
+                <!-- Job Title -->
+                <div class="mb-3">
+                    <label class="form-label fw-bold">Job Title</label>
+                    <input type="text" class="form-control" name="JobTitle" placeholder="Enter job title" required />
+                </div>
+
+                <!-- Job Description -->
+                <div class="mb-3">
+                    <label class="form-label fw-bold">Description</label>
+                    <textarea class="form-control" name="Description" rows="3" placeholder="Write a short description"></textarea>
+                </div>
+
+                <!-- Required Fields (Dynamic with + button) -->
+                <div class="mb-3">
+                    <label class="form-label fw-bold">Required Fields</label>
+                    <div class="input-group mb-2">
+                        <select class="form-select" id="fieldSelect">
+                            @if (ViewBag.Fields != null)
+                            {
+                                foreach (var field in ViewBag.Fields as List<ATSProject.Models.CandidateField>)
+                                {
+                                    <option value="@field.Id">@field.FieldName</option>
+                                }
+                            }
+                            else
+                            {
+                                <option disabled>No fields available</option>
+                            }
+                        </select>
+                        <button type="button" class="btn btn-outline-primary" id="addFieldBtn">➕ Add</button>
+                    </div>
+
+                    <div id="selectedFieldsContainer" class="mt-2">
+                        <!-- Added fields will show here as badges -->
+                    </div>
+                </div>
+
+                <!-- Hidden input to hold selected field IDs -->
+                <input type="hidden" name="selectedFields" id="selectedFieldsInput" />
+
+                <!-- Submit -->
+                <div class="text-center mt-4">
+                    <button type="submit" class="btn btn-lg btn-dark px-5">💾 Save Job</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        let selectedFields = [];
+
+        document.getElementById("addFieldBtn").addEventListener("click", function () {
+            const select = document.getElementById("fieldSelect");
+            const fieldId = select.value;
+            const fieldName = select.options[select.selectedIndex].text;
+
+            if (fieldId && !selectedFields.includes(fieldId)) {
+                selectedFields.push(fieldId);
+
+                // Show as badge
+                const container = document.getElementById("selectedFieldsContainer");
+                const badge = document.createElement("span");
+                badge.className = "badge bg-secondary me-2 mb-2 p-2";
+                badge.innerHTML = fieldName +
+                    ` <button type="button" class="btn-close btn-close-white btn-sm ms-1" onclick="removeField('${fieldId}', this)"></button>`;
+                container.appendChild(badge);
+
+                updateHiddenInput();
+            }
+        });
+
+        function removeField(fieldId, btn) {
+            selectedFields = selectedFields.filter(id => id !== fieldId);
+            btn.parentElement.remove();
+            updateHiddenInput();
+        }
+
+        function updateHiddenInput() {
+            document.getElementById("selectedFieldsInput").value = selectedFields.join(",");
+        }
+    </script>
+}
