@@ -1,8 +1,12 @@
-using ATSProject.Data;
+﻿using ATSProject.Data;
 using ATSProject.Services;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
+
+// Read PORT from environment (Railway sets this automatically)
+var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
+builder.WebHost.UseUrls($"http://*:{port}");
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
@@ -34,12 +38,5 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
-// Read PORT from environment (Railway sets this automatically)
-var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
-
-// Make Kestrel listen on that port
-builder.WebHost.UseUrls($"http://*:{port}");
-
-
-// ? Only one Run at the end
+// ✅ Only one Run at the end
 app.Run();
