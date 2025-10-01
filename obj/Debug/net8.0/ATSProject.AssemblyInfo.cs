@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ATSProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fffdb915555f686185e6dbf41eb100b80c9ac9c7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7d33a642d22273cae191147669bb21122f6a39e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ATSProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ATSProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

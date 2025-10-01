@@ -34,5 +34,12 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
+// Read PORT from environment (Railway sets this automatically)
+var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
+
+// Make Kestrel listen on that port
+builder.WebHost.UseUrls($"http://*:{port}");
+
+
 // ? Only one Run at the end
 app.Run();
